@@ -9,8 +9,8 @@ hypothesis of no genetic association, and then performs a score test for
 each individual genetic variant. See user manual
 [here](https://content.sph.harvard.edu/xlin/dat/GMMAT_user_manual_v0.7.pdf).
 A light version of GMMAT which does not depend on the C++ library boost
-is available [here]() (it cannot take .gz and .bz2 compressed genotype
-files).
+is available [here](https://github.com/lin-lab/GMMAT_lite) (it cannot
+take .gz and .bz2 compressed genotype files).
 
 ## References
 
