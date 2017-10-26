@@ -26,4 +26,6 @@ take .gz and .bz2 compressed genotype files).
   98(4): 653-666.
   doi:[10.1016/j.ajhg.2016.02.012](https://doi.org/10.1016/j.ajhg.2016.02.012).
 
+## License
 
+This software is licensed under GPL-3.
