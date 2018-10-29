@@ -1,5 +1,12 @@
 # GMMAT (Generalized Linear Mixed Model Association Test)
 
+# Update (10/29/2018)
+
+There is an updated version of GMMAT [here](https://github.com/hanchenphd/GMMAT).
+This code is no longer being maintained. Please use the updated version.
+
+# Description
+
 GMMAT is an R package for performing genetic association tests for
 outcomes with distribution in the exponential family (e.g. binary
 outcomes) based on the generalized linear mixed model. It can be used to
